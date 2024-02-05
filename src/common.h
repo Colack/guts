@@ -8,6 +8,7 @@
 #include <string.h>
 #include <sys/types.h>
 #include <ctype.h>
+#include <time.h>
 
 #define VERSION "0.0.1"
 #define AUTHOR "Jack Spencer"
