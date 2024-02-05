@@ -1,6 +1,42 @@
-# guts v0.0.1
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-Introducing guts, a simple tool to manage and create code repositories. (Essentially just a simpler version of git)
+# guts
+
+Introducing guts, a simple tool to manage and create code repositories. (Essentially just a simpler version of git) 
+
+Guts is split into 2 programs, the server and the client. The server allows you to manage repositories from a command line interface, and the client allows you to connect to a server and manage repositories remotely.
+
+You can find the source code for the server [here](https://github.com/colack/guts/server).<br>
+You can find the source code for the client [here](https://github.com/colack/guts/client).<br>
+You can find the source code of the offline mode [here](https://github.com/colack/guts/offline).<br>
+
+## Features
+
+- Create and manage repositories
+- Server mode to manage repositories from a command line interface
+- Client mode to connect to a server and manage repositories remotely
+- Database to store all repository and user information
+- User authentication
+- Admin privileges
+- Backup system
+
+## Table of Contents
+
+- [guts](#guts)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Program Options](#program-options)
+  - [Configuration File](#configuration-file)
+  - [Repository Options](#repository-options)
+  - [Commands](#commands)
+  - [Server Mode](#server-mode)
+  - [Server Database](#server-database)
+  - [Server Commands](#server-commands)
+  - [Client Mode](#client-mode)
+  - [Client Commands](#client-commands)
+- [Notes](#notes)
+- [License](#license)
 
 ## Installation
 
