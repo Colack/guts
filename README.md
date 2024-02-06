@@ -1,4 +1,7 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![wakatime](https://wakatime.com/badge/user/018d1856-edb8-4f0e-91f8-a475bd60d736/project/018d70b1-6313-4f7f-8d2e-96be9b136e7f.svg)](https://wakatime.com/badge/user/018d1856-edb8-4f0e-91f8-a475bd60d736/project/018d70b1-6313-4f7f-8d2e-96be9b136e7f)
+[![version](https://img.shields.io/badge/version-v0.0.2-blue)](https://github.com/colack/guts)
+[![issues](https://img.shields.io/github/issues/colack/guts)](https://github.com/colack/guts/issues)
 
 # guts
 
