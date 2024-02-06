@@ -6,9 +6,9 @@ Introducing guts, a simple tool to manage and create code repositories. (Essenti
 
 Guts is split into 2 programs, the server and the client. The server allows you to manage repositories from a command line interface, and the client allows you to connect to a server and manage repositories remotely.
 
-You can find the source code for the server [here](https://github.com/colack/guts/server).<br>
-You can find the source code for the client [here](https://github.com/colack/guts/client).<br>
-You can find the source code of the offline mode [here](https://github.com/colack/guts/offline).<br>
+The root directory holds the `guts.c` file, which is the entry point. There are different directories for the server and client, along with included programs and libraries.
+
+Each directory that starts with `guts-` is a separate program that is included with guts. The `guts-server` directory holds the server program, and the `guts-client` directory holds the client program.
 
 ## Features
 
