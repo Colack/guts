@@ -3,7 +3,7 @@
 
 #include "run-command.h"
 
-#define GUTS_VERSION "0.0.2"
+#define GUTS_VERSION "0.0.21"
 #define GUTS_AUTHOR "Guts Team"
 #define GUTS_REPOSITORY "https://github.com/colack/guts"
 #define GUTS_LICENSE "GPL-3.0"

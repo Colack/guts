@@ -21,4 +21,10 @@
 #define MODULES_UTILITY 4 // Utility module, responsible for handling utility requests
 #define MODULES_WKATTRIBUTES 5 // WKAttributes module, responsible for handling WKAttributes requests
 
+void modules_init();
+void modules_destroy();
+
+void modules_run_command(const char *module, const bool run_with_debug, const char *command, const char *args);
+void modules_find_command(const char *command);
+
 #endif
