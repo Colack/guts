@@ -1,7 +1,9 @@
 #ifndef API_H
 #define API_H
 
-#include "../guts-lib/lib.h"
+#include "../lib.h"
+
+#define API_ENABLED true
 
 void api_init();
 void api_destroy();

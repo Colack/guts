@@ -1,7 +1,5 @@
 #include "guts-core/core.h"
-#include "guts-client/client.h"
-#include "guts-offline/offline.h"
-#include "guts-server/server.h"
-#include "guts-lib/lib.h"
-#include "guts-api/api.h"
-#include "guts-wkattributes/wkattributes.h"
+
+int main() {
+
+}

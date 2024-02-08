@@ -11,7 +11,7 @@ Guts is split into 2 programs, the server and the client. The server allows you 
 
 The root directory holds the `guts.c` file, which is the entry point. There are different directories for the server and client, along with included programs and libraries.
 
-Each directory that starts with `guts-` is a separate program that is included with guts. The `guts-server` directory holds the server program, and the `guts-client` directory holds the client program.
+All the code is written in C, with some bash scripts to help with installation and updating. You can find all code in the `./guts-core` directory.
 
 ## Features
 
