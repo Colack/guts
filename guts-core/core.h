@@ -6,12 +6,12 @@
 #define GUTS_VERSION "0.0.2"
 #define GUTS_AUTHOR "Guts Team"
 #define GUTS_REPOSITORY "https://github.com/colack/guts"
+#define GUTS_LICENSE "GPL-3.0"
 
 #define GUTS_DEBUG false
 
-bool core_init();
+bool core_init(int argc, char **argv);
 bool core_destroy();
-bool core_run();
 
 void core_print_version();
 void core_print_help();
